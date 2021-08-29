@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    background-color: #bfbfbf;
+}
+.container{
+    margin: auto;
+    margin-top: 70px;
+    background-color: #ffffff80;
+    width: 1000px;
+    height: 500px;
+    border-radius: 45px;
+    background-image: url(./image/Pokeball.svg) ;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 400px;
+
+}
+.img-pokedex{
+    width: 430px;
+}
+.container .img-pokedex{
+    margin-left: 30%;
+    margin-top: 10px;
+}

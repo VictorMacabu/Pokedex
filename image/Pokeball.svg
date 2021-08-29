@@ -1,0 +1,25 @@
+<svg width="600" height="600" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M300 0C454.384 0 581.733 114.888 600 263.226H453.579C436.908 194.384 374.473 143.226 300 143.226C225.527 143.226 163.092 194.384 146.42 263.226H0C18.2666 114.888 145.616 0 300 0Z" fill="url(#paint0_linear)"/>
+<path d="M453.579 336.774H600C581.733 485.112 454.384 600 300 600C145.616 600 18.2666 485.112 0 336.774H146.42C163.092 405.616 225.527 456.774 300 456.774C374.473 456.774 436.908 405.616 453.579 336.774Z" fill="url(#paint1_linear)"/>
+<path d="M300 398.71C354.924 398.71 399.449 354.516 399.449 300C399.449 245.484 354.924 201.29 300 201.29C245.076 201.29 200.551 245.484 200.551 300C200.551 354.516 245.076 398.71 300 398.71Z" fill="url(#paint2_linear)"/>
+<defs>
+<linearGradient id="paint0_linear" x1="0" y1="0" x2="600" y2="600" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="0.494792" stop-color="#CCCBCB"/>
+<stop offset="0.494892" stop-color="#CDCCCC"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="0" y1="0" x2="600" y2="600" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="0.494792" stop-color="#CCCBCB"/>
+<stop offset="0.494892" stop-color="#CDCCCC"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+<linearGradient id="paint2_linear" x1="0" y1="0" x2="600" y2="600" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="0.494792" stop-color="#CCCBCB"/>
+<stop offset="0.494892" stop-color="#CDCCCC"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+</defs>
+</svg>
